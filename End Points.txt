@@ -1,0 +1,12 @@
+GET -> Senhas / Buscar todas as senhas cadastradas
+POST -> Senhas / Cria uma nova instância de senhas
+GET -> Senhas / Busca uma senha pelo filtro
+PUT -> Senhas / Atualiza uma determinada senha
+DELETE -> Senhas / Deleta uma senha
+
+Login (Público)
+POST / ENTRAR / Permite um usuário existente no sistema acessar os endpoints privados
+POST / CADASTRAR / Permite criar um novo usuário 
+
+Entidades
+Email / Senha -> Essa entidade vai guardar os emails e as senhas
