@@ -13,6 +13,6 @@ Após clonar o projeto você deve rodar o seguinte comando
 
 npm run dev
 
-você deve abrir o Postman, Swagger ou Insomnia na porta 3011
+você deve abrir o Postman, Swagger ou Insomnia na porta 3001
 
 htpp://localhost:3001/passwords
