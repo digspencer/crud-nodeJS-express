@@ -1,6 +1,6 @@
 ## Crud em NodeJS com Express escrito em TypeScript
 
-Essa aplicação permite que o usuário gerencie suas senhas com banco de dados
+Essa aplicação permite que o usuário gerencie suas senhas com banco de dados sqlite
 
 Utilizando os métodos
 
